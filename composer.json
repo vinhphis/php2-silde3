@@ -1,0 +1,17 @@
+{
+    "name": "vinhphis/php2",
+    "description": "php demo",
+    "type": "project",
+    "license": "free",
+    "autoload": {
+        "psr-4": {
+            "Vinhphis\\Php2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vinhphis"
+        }
+    ],
+    "require": {}
+}
